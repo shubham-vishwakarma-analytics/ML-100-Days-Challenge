@@ -244,7 +244,7 @@ The goal of this challenge is to strengthen my:
 [Open Notebook](2026-05-26_ML_026.ipynb)
 
 ### 🔹 Output Screenshot
-![ML Output](2026-05-26_ML_026.png)
+![ML Output](2026-05-026_ML_026.png)
 
 ---
 
@@ -253,7 +253,7 @@ The goal of this challenge is to strengthen my:
 [Open Notebook](2026-05-27_ML_027.ipynb)
 
 ### 🔹 Output Screenshot
-![ML Output](2026-05-27_ML_027.png)
+![ML Output](2026-05-027_ML_027.png)
 
 ---
 
@@ -262,7 +262,7 @@ The goal of this challenge is to strengthen my:
 [Open Notebook](2026-05-28_ML_028.ipynb)
 
 ### 🔹 Output Screenshot
-![ML Output](2026-05-28_ML_028.png)
+![ML Output](2026-05-028_ML_028.png)
 
 ---
 
@@ -271,7 +271,7 @@ The goal of this challenge is to strengthen my:
 [Open Notebook](2026-05-29_ML_029.ipynb)
 
 ### 🔹 Output Screenshot
-![ML Output](2026-05-29_ML_029.png)
+![ML Output](2026-05-029_ML_029.png)
 
 ---
 
@@ -280,7 +280,7 @@ The goal of this challenge is to strengthen my:
 [Open Notebook](2026-05-30_ML_030.ipynb)
 
 ### 🔹 Output Screenshot
-![ML Output](2026-05-30_ML_030.png)
+![ML Output](2026-05-030_ML_030.png)
 
 ---
 
