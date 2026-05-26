@@ -244,7 +244,7 @@ The goal of this challenge is to strengthen my:
 [Open Notebook](2026-05-26_ML_026.ipynb)
 
 ### 🔹 Output Screenshot
-![ML Output](2026-05-026_ML_026.png)
+![ML Output](2026-05-26_ML_026.png)
 
 ---
 
